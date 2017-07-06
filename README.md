@@ -1,2 +1,2 @@
 # Protopaja4-Keskusyksikko
-Aluski bluetooth-koodi
+Aluksi bluetooth-koodi
